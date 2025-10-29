@@ -12,9 +12,12 @@ Watch as a population of neural networks evolves to master Flappy Bird through n
 
 ## Future Ideas:
 
-AI Snake,
-AI Tetris,
-AI Bouncing Ball,
-AI 2048
+-AI Snake
+
+-AI Tetris
+
+-AI Bouncing Ball
+
+-AI 2048
 
 ## Download the latest version at https://github.com/yrjokana/Shade-AI-Games/releases
