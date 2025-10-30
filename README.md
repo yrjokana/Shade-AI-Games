@@ -10,9 +10,9 @@ Watch as a population of neural networks evolves to master Flappy Bird through n
 
 -AI Racing
 
-## Future Ideas:
-
 -AI Snake
+
+## Future Ideas:
 
 -AI Tetris
 
