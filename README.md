@@ -2,6 +2,8 @@
 
 AI agents learning to play games using neural networks and genetic algorithms.
 
+Currently looking for volunteers for ''AI Tic Tac Toe''.
+
 ## Current Game(s): Flappy Bird
 
 Watch as a population of neural networks evolves to master Flappy Bird through natural selection!
