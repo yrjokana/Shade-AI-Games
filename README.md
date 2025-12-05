@@ -2,7 +2,9 @@
 
 AI agents learning to play games using neural networks and genetic algorithms.
 
-Currently looking for volunteers for ''AI Tic Tac Toe''.
+## Currently looking for volunteers for ''AI Tic Tac Toe''.
+
+Apply for volunteering at https://forms.gle/UTuWT2L7ozgJTyD67
 
 ## Current Game(s): Flappy Bird
 
