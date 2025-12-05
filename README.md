@@ -10,13 +10,15 @@ Watch as a population of neural networks evolves to master Flappy Bird through n
 
 -AI Racing
 
--AI Snake
+-AI Tic Tac Toe
 
 ## Future Ideas:
 
 -AI Tetris
 
--AI Bouncing Ball
+-AI Snake
+
+-AI ''Bouncing Ball''
 
 -AI 2048
 
