@@ -14,6 +14,8 @@ Watch as a population of neural networks evolves to master Flappy Bird through n
 
 -AI Racing
 
+-AI Soccer
+
 -AI Tic Tac Toe
 
 ## Future Ideas:
